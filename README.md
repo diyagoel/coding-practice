@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/diyagoel/coding-practice/tree/master/0001-two-sum) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/diyagoel/coding-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/diyagoel/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diyagoel/coding-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
@@ -15,6 +16,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/diyagoel/coding-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0680-valid-palindrome-ii](https://github.com/diyagoel/coding-practice/tree/master/0680-valid-palindrome-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/diyagoel/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diyagoel/coding-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
