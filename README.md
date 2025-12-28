@@ -6,12 +6,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/diyagoel/coding-practice/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/diyagoel/coding-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/diyagoel/coding-practice/tree/master/0128-longest-consecutive-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/diyagoel/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diyagoel/coding-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/diyagoel/coding-practice/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/diyagoel/coding-practice/tree/master/0128-longest-consecutive-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/diyagoel/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
@@ -34,4 +36,8 @@
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/diyagoel/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diyagoel/coding-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/diyagoel/coding-practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
