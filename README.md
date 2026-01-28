@@ -9,6 +9,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/diyagoel/coding-practice/tree/master/0128-longest-consecutive-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/diyagoel/coding-practice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/diyagoel/coding-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1929-concatenation-of-array](https://github.com/diyagoel/coding-practice/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,4 +41,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/diyagoel/coding-practice/tree/master/0128-longest-consecutive-sequence) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/diyagoel/coding-practice/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
